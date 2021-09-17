@@ -1,2 +1,3 @@
 # githubpractice
 fetch
+pull --rebase
